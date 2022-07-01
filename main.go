@@ -1,6 +1,6 @@
 package main
 
-// mi 23:49
+// min 23:49
 import (
 	"encoding/json"
 	"fmt"
